@@ -218,3 +218,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#Data
+data/raw/*
+data/processed/*
+
+#Python
+*.py[cod]
+.venv/
+venv/
+
+#Jupyter
+.ipynb_checkpoints/
+
+.env
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
