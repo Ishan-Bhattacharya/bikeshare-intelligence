@@ -1,0 +1,22 @@
+Category,KPI,Value
+Overall Performance,Total Rentals,3292679.0
+Overall Performance,Average Hourly Rentals,189.46
+Overall Performance,Total Casual Records,620017.0
+Overall Performance,Total Registered Records,2672662.0
+Customer Analytics,Registered Customer Share,81.16983161735475
+Customer Analytics,Casual Customer Share,18.830168382645258
+Customer Analytics,Casual to Registered Ratio,23.198481513936294
+Demand Management,Peak Hour,17:00
+Demand Management,Lowest Hour,04:00
+Demand Management,Peak Offpeak Ratio,72.6359715880264
+Temporal Analytics,Average Weekday Demand,191.74
+Temporal Analytics,Average Weekend Demand,183.85
+Temporal Analytics,Weekend Demand Index,95.89
+Seasonal Analytics,Average Rentals - Fall,236.02
+Seasonal Analytics,Average Rentals - Summer,208.34
+Seasonal Analytics,Average Rentals - Winter,198.87
+Seasonal Analytics,Average Rentals - Spring,111.11
+Environmental Analytics,Clear Weather Demand,204.87
+Environmental Analytics,Light Rain/Snow Demand,111.58
+Environmental Analytics,Weather Demand Difference,93.29
+Environmental Analytics,Weather Demand Reduction (%),45.54
